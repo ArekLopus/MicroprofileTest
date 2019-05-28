@@ -1,0 +1,3 @@
+configuration.customsources.EchoConfigSource
+configuration.customsources.CustomConfigSourceMy
+configuration.customsources.RandomIntConfigSource
